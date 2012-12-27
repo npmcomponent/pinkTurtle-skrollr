@@ -1,3 +1,10 @@
+/**
+ * Exports module
+ */
+
+module.exports = skrollr;
+
+
 /*!
  * skrollr
  *
@@ -5,7 +12,8 @@
  *
  * free to use under terms of MIT license
  */
-(function(window, document, undefined) {
+
+function skroll() {
 	'use strict';
 
 	/*
@@ -1126,4 +1134,4 @@
 	//Each skrollable gets an unique ID incremented for each skrollable.
 	//The ID is the index in the _skrollables array.
 	var _skrollableIdCounter = 0;
-}(window, document));
+};
