@@ -2,13 +2,13 @@
   "name": "skrollr",
   "repo": "pinkTurtle/skrollr",
   "description": "Stand-alone parallax scrolling library with zero dependencies.",
-  "version": "0.5.0-alpha",
+  "version": "0.5.6",
   "author": {
     "name": "Alexander Prinzhorn",
     "email": "alexander@prinzhorn.it",
     "url": "http://www.prinzhorn.it/"
   },
-  "keywords": [],
+  "keywords": ["skrollr", "paralax"],
   "dependencies": {
     "component/jquery": "1.8.2"
   },
