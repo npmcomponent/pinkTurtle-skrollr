@@ -13,7 +13,7 @@ module.exports = skrollr;
  * free to use under terms of MIT license
  */
 
-function skroll() {
+function skrollr(){
 	'use strict';
 
 	/*
