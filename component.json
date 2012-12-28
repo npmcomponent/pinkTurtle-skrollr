@@ -9,9 +9,7 @@
     "url": "http://www.prinzhorn.it/"
   },
   "keywords": ["skrollr", "paralax", "jquery plugin"],
-  "dependencies": {
-    "component/jquery": "1.8.2"
-  },
+  "dependencies": {},
   "development": {},
   "license": "MIT",
   "scripts": [
