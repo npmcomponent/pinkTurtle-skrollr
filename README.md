@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [pinkturtle/skrollr](http://github.com/pinkturtle/skrollr). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/pinkturtle-skrollr`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 [![Build Status](https://secure.travis-ci.org/Prinzhorn/skrollr.png)](http://travis-ci.org/Prinzhorn/skrollr)
 
 skrollr (v 0.5.6)
